@@ -53,3 +53,4 @@ fi
 # for 1.7.x series, scp slf4j-1.7.*.tar.gz yvo.qos.ch:/var/www/www.slf4j.org/htdocs/dist/
 
 echo Full Success
+
